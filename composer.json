@@ -1,0 +1,10 @@
+{
+    "name": "taahirisaacs/delivery-slots-premium",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/taahirisaacs/delivery-slots-premium",
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+}
